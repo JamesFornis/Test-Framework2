@@ -1,0 +1,12 @@
+{
+"test1":{
+"logout_email":"logout@mail.com",
+"logout_password":"12345",
+ "card_name":"James",
+ "card_num":"123456789",
+ "cvc":"311",
+ "exp_month":"06",
+ "exp_year":"2026",
+ "search_keyword":"Men Tshirt"
+ }
+}

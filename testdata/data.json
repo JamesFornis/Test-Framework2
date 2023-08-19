@@ -1,0 +1,25 @@
+{
+"test1":{
+"name":"sad",
+"email":"asd@mail.com",
+"password":"12345",
+"dayinfo":"12",
+"monthinfo":"January",
+"yearinfo":"2021",
+"fnames":"James",
+"lnames":"Fornis",
+"compdet":"Cheq Systems Inc",
+"address1":"Cebu City",
+"address2":"Cebu City",
+"countryname":"Canada",
+"state":"Cebu",
+"city":"Cebu",
+"zipcode":"6000",
+"mobilenum":"09235873765",
+ "card_name":"James",
+ "card_num":"123456789",
+ "cvc":"311",
+ "exp_month":"06",
+ "exp_year":"2026"
+ }
+}
